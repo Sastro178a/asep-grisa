@@ -1,0 +1,14 @@
+# Keamanan (JANGAN UPLOAD ENV)
+.env
+.env.backup
+*.key
+
+# Node & Composer
+/node_modules
+/vendor
+
+# Laravel Caches
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
